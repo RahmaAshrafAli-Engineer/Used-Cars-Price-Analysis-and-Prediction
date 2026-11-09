@@ -334,17 +334,22 @@ Beyond achieving strong predictive performance, the process highlighted several 
 - Expand application functionality and deployment options.
 - Evaluate generalization on independent real-world datasets.
 
+---
 ## 👩‍💻 Author
 
-**Rahma Ashraf Ali Faragallah**
+<div align="center">
 
-Data Science & AI Enthusiast | Machine Learning Developer
+### **Rahma Ashraf Ali Faragallah**
+**Data Scientist & AI Engineer**
 
-Interested in transforming complex datasets into meaningful insights and developing intelligent, practical solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahma-faragallah-22b132321/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahmaAshrafAli-Engineer)
 
-[GitHub](https://github.com/RahmaAshrafAli-Engineer)
+⭐ **If you found this useful, give the repo a star!** ⭐
 
----
+© 2026 Rahma Ashraf Ali Faragallah. All rights reserved.
+
+</div>
 
 <div align="center">
 
